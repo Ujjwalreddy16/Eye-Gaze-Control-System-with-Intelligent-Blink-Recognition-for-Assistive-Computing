@@ -43,6 +43,25 @@ This project enables **hands-free computer control** through real-time **eye and
 
 ---
 
+---
+
+## 🖥️ Demo
+
+Here’s a short demonstration of the **Eye Gaze Control System** in action 👇  
+
+![Eye Gaze Demo](docs/demo.gif)
+
+> 🎬 *The above GIF/video shows real-time eye gaze tracking and blink-based control using a standard webcam.*
+
+**How to Add Your Own Demo:**
+1. Record your demo using OBS or any screen recorder.  
+2. Save it as `demo.gif` or `demo.mp4`.  
+3. Place it inside a new folder named `docs/` in your repo.  
+4. The README will automatically display it.
+
+---
+
+
 ## 📊 Performance Summary
 
 | Metric | Value |
@@ -305,16 +324,5 @@ Not certified for clinical or medical use. Please test carefully before deployin
 - [ ] v2.1 – Multi-modal fusion (voice + gaze + gesture)  
 
 ---
-
-## 📈 GitHub Stats
-
-[![GitHub Stars](https://img.shields.io/github/stars/Ujjwalreddy16/Eye-Gaze-Control-System-with-Intelligent-Blink-Recognition-for-Assistive-Computing?style=social)](https://github.com/Ujjwalreddy16/Eye-Gaze-Control-System-with-Intelligent-Blink-Recognition-for-Assistive-Computing/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/Ujjwalreddy16/Eye-Gaze-Control-System-with-Intelligent-Blink-Recognition-for-Assistive-Computing?style=social)](https://github.com/Ujjwalreddy16/Eye-Gaze-Control-System-with-Intelligent-Blink-Recognition-for-Assistive-Computing/network/members)
-[![GitHub Issues](https://img.shields.io/github/issues/Ujjwalreddy16/Eye-Gaze-Control-System-with-Intelligent-Blink-Recognition-for-Assistive-Computing)](https://github.com/Ujjwalreddy16/Eye-Gaze-Control-System-with-Intelligent-Blink-Recognition-for-Assistive-Computing/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Ujjwalreddy16/Eye-Gaze-Control-System-with-Intelligent-Blink-Recognition-for-Assistive-Computing)](https://github.com/Ujjwalreddy16/Eye-Gaze-Control-System-with-Intelligent-Blink-Recognition-for-Assistive-Computing/pulls)
-
----
-
-**💡 Made with passion for accessibility — empowering users through vision-based computing.**
 
 
