@@ -1,0 +1,20 @@
+# Python cache & environment files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+.env
+
+# Data / large binaries
+*.h5
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
