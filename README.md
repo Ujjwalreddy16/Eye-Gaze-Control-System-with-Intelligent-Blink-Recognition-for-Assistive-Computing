@@ -45,23 +45,6 @@ This project enables **hands-free computer control** through real-time **eye and
 
 ---
 
-## 🖥️ Demo
-
-Here’s a short demonstration of the **Eye Gaze Control System** in action 👇  
-
-![Eye Gaze Demo](docs/demo.gif)
-
-> 🎬 *The above GIF/video shows real-time eye gaze tracking and blink-based control using a standard webcam.*
-
-**How to Add Your Own Demo:**
-1. Record your demo using OBS or any screen recorder.  
-2. Save it as `demo.gif` or `demo.mp4`.  
-3. Place it inside a new folder named `docs/` in your repo.  
-4. The README will automatically display it.
-
----
-
-
 ## 📊 Performance Summary
 
 | Metric | Value |
