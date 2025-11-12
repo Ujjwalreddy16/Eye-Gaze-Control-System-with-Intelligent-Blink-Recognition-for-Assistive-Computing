@@ -6,7 +6,10 @@
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.5.3-green.svg)](https://opencv.org/)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)]()
 
-> ⚙️ An accessible, low-cost **eye-gaze control system** using standard webcams — featuring **real-time tracking** and **intelligent blink-based control** for users with motor impairments.
+>
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+ ⚙️ An accessible, low-cost **eye-gaze control system** using standard webcams — featuring **real-time tracking** and **intelligent blink-based control** for users with motor impairments.
 
 ---
 
