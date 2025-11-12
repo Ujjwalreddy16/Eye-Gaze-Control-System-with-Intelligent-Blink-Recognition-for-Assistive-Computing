@@ -306,4 +306,15 @@ Not certified for clinical or medical use. Please test carefully before deployin
 
 ---
 
+## 📈 GitHub Stats
+
+[![GitHub Stars](https://img.shields.io/github/stars/Ujjwalreddy16/Eye-Gaze-Control-System-with-Intelligent-Blink-Recognition-for-Assistive-Computing?style=social)](https://github.com/Ujjwalreddy16/Eye-Gaze-Control-System-with-Intelligent-Blink-Recognition-for-Assistive-Computing/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/Ujjwalreddy16/Eye-Gaze-Control-System-with-Intelligent-Blink-Recognition-for-Assistive-Computing?style=social)](https://github.com/Ujjwalreddy16/Eye-Gaze-Control-System-with-Intelligent-Blink-Recognition-for-Assistive-Computing/network/members)
+[![GitHub Issues](https://img.shields.io/github/issues/Ujjwalreddy16/Eye-Gaze-Control-System-with-Intelligent-Blink-Recognition-for-Assistive-Computing)](https://github.com/Ujjwalreddy16/Eye-Gaze-Control-System-with-Intelligent-Blink-Recognition-for-Assistive-Computing/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Ujjwalreddy16/Eye-Gaze-Control-System-with-Intelligent-Blink-Recognition-for-Assistive-Computing)](https://github.com/Ujjwalreddy16/Eye-Gaze-Control-System-with-Intelligent-Blink-Recognition-for-Assistive-Computing/pulls)
+
+---
+
+**💡 Made with passion for accessibility — empowering users through vision-based computing.**
+
 
