@@ -4,14 +4,15 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.5.3-green.svg)](https://opencv.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-Active-blue.svg)](CODE_OF_CONDUCT.md)
+[![Security Policy](https://img.shields.io/badge/Security-Policy-orange.svg)](SECURITY.md)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)]()
 
 >
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-Active-blue.svg)](CODE_OF_CONDUCT.md)
-[![Security Policy](https://img.shields.io/badge/Security-Policy-orange.svg)](SECURITY.md)
-
  ⚙️ An accessible, low-cost **eye-gaze control system** using standard webcams — featuring **real-time tracking** and **intelligent blink-based control** for users with motor impairments.
 
 ---
@@ -196,6 +197,24 @@ Weighted fusion formula:
 ## 🏗️ Project Structure
 
 ```
+Eye-Gaze-Control-System-with-Intelligent-Blink-Recognition-for-Assistive-Computing/
+├── enhanced_main.py                  # Main entry point
+├── enhanced_eye_tracker.py           # Eye and gaze tracking module
+├── enhanced_blink_detector.py        # Blink recognition logic
+├── enhanced_config.py                # Configuration parameters
+├── enhanced_utils.py                 # Utility functions
+├── true_gaze_tracker.py              # Advanced gaze estimation logic
+├── shape_predictor_68_face_landmarks.dat  # Dlib facial landmark model
+├── Setup_and_Test.py                 # Environment setup and test script
+├── README.md                         # Documentation
+├── LICENSE                           # MIT License
+├── CONTRIBUTING.md                   # Contribution guide
+├── CODE_OF_CONDUCT.md                # Community guidelines
+├── SECURITY.md                       # Security reporting policy
+├── .gitignore                        # Ignored files for Git
+└── __pycache__/                      # Python bytecode cache
+```
+
 eye-gaze-assistive-control/
 ├── main.py
 ├── src/
