@@ -307,11 +307,14 @@ Not certified for clinical or medical use. Please test carefully before deployin
 ---
 
 ## 📈 GitHub Stats
+---
 
-![GitHub stars](https://img.shields.io/github/stars/<your-username>/eye-gaze-assistive-control?style=social)
-![GitHub forks](https://img.shields.io/github/forks/<your-username>/eye-gaze-assistive-control?style=social)
-![GitHub issues](https://img.shields.io/github/issues/<your-username>/eye-gaze-assistive-control)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/<your-username>/eye-gaze-assistive-control)
+## 📈 GitHub Stats
+
+![GitHub stars](https://img.shields.io/github/stars/Ujjwalreddy16/Eye-Gaze-Control-System-with-Intelligent-Blink-Recognition-for-Assistive-Computing?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Ujjwalreddy16/Eye-Gaze-Control-System-with-Intelligent-Blink-Recognition-for-Assistive-Computing?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Ujjwalreddy16/Eye-Gaze-Control-System-with-Intelligent-Blink-Recognition-for-Assistive-Computing)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Ujjwalreddy16/Eye-Gaze-Control-System-with-Intelligent-Blink-Recognition-for-Assistive-Computing)
 
 ---
 
