@@ -9,6 +9,9 @@
 >
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-Active-blue.svg)](CODE_OF_CONDUCT.md)
+[![Security Policy](https://img.shields.io/badge/Security-Policy-orange.svg)](SECURITY.md)
+
  ⚙️ An accessible, low-cost **eye-gaze control system** using standard webcams — featuring **real-time tracking** and **intelligent blink-based control** for users with motor impairments.
 
 ---
