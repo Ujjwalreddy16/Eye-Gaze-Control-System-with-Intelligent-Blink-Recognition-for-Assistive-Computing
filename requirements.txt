@@ -1,0 +1,5 @@
+opencv-python==4.5.3
+dlib==19.22
+numpy==1.21
+PyAutoGUI==0.9.53
+scipy==1.7.1
