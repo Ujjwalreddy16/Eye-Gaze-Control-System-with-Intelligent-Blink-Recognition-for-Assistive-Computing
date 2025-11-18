@@ -159,7 +159,7 @@ Full details: [`docs/configuration.md`](docs/configuration.md)
   └──────────┘
 ```
 
-More in: - [Architecture Overview](docs/pipeline_architecture (1).pdf)
+More in: - [Architecture Overview](docs/pipeline_architecture(1).pdf)
 - [Blink FSM Diagram](docs/blink_fsm.pdf)
 
 
