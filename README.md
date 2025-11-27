@@ -25,7 +25,7 @@
 K. Ujjwal Reddy, Karthik M, P. V. Koushik Reddy  
 **Affiliation:** Sir M Visvesvaraya Institute of Technology, Bengaluru, India  
 
-📘 *Published in:* [Conference Name], [Year]  
+📘 *Published in:* [IEEE Electronics & Packaging Society], [2026]  
 🔗 *Link:* _Coming soon_
 
 ---
